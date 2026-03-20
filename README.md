@@ -18,7 +18,6 @@ TanStack, GSAP, Three.js
 ### DevOps, Testing & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-*QA:* Vitest, Playwright, Unit/Integration Testing
-*AI Integration:* Agentic Prompting, Vercel AI SDK
+*QA:* Vitest, Playwright
 
 ---
