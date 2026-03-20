@@ -1,4 +1,4 @@
-# [cite_start]Hi, I'm Armir
+# Hi, I'm Armir
 ### Frontend Developer | London, UK
 
 Performance-driven Frontend Developer with a Computer Science background and a track record of building scalable, impactful full-stack solutions. Expert in architecting responsive web experiences using React, with a heavy focus on sub-second performance, type-safe data architecture, and inclusive, accessible design.
@@ -9,6 +9,7 @@ Performance-driven Frontend Developer with a Computer Science background and a t
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
 TanStack, GSAP, Three.js
 
 ### Backend & Data
@@ -16,6 +17,7 @@ TanStack, GSAP, Three.js
 
 ### DevOps, Testing & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 *QA:* Vitest, Playwright, Unit/Integration Testing
 *AI Integration:* Agentic Prompting, Vercel AI SDK
 
